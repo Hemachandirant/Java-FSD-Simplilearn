@@ -7,7 +7,7 @@ public class Linkedlist {
 	public static void main (String[] args) {
 		List<String> name = new LinkedList<String>();
 		
-		name.add("Ameica");
+		name.add("America");
 		name.add("India");
 		System.out.println(name);
 	}
